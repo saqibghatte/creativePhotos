@@ -1,0 +1,105 @@
+@media (min-width: 1690px) {}
+
+@media (min-width: 1281px) {
+    .p_details {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .p_details {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .contact_div {
+        margin-top: 1em !important;
+    }
+
+    .filter {
+        position: relative;
+        width: 100vw;
+        right: 6.3em;
+    }
+
+    .gallery-box {
+        position: relative !important;
+        right: 2.5em !important;
+        display: flex !important;
+    }
+
+    .p_details {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
+
+/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {} */
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .contact_div {
+        margin-top: 1em !important;
+    }
+
+    .info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filter {
+        position: relative;
+        width: 100vw;
+        right: 6.3em;
+    }
+
+    .gallery-box {
+        position: relative !important;
+        right: 2.5em !important;
+        display: flex !important;
+    }
+
+    .p_details {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .contact_div {
+        margin-top: 1em !important;
+    }
+
+    .info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filter {
+        position: relative;
+        width: 100vw;
+        right: 6.3em;
+    }
+
+    .gallery-box {
+        position: relative !important;
+        right: 5.5em !important;
+        display: flex !important;
+    }
+
+    .gallery-post {
+        width: 250px !important;
+    }
+
+    .abou-box-gal {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .p_details {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
