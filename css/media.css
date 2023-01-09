@@ -6,7 +6,7 @@
         flex-direction: column !important;
     }
 
-    
+
 }
 
 @media (min-width: 1025px) and (max-width: 1280px) {
@@ -15,7 +15,7 @@
         flex-direction: column !important;
     }
 
-    
+
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -40,7 +40,7 @@
         flex-direction: column !important;
     }
 
-   
+
 }
 
 /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {} */
@@ -72,7 +72,6 @@
         flex-direction: column !important;
     }
 
-   
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -98,7 +97,7 @@
     }
 
     .gallery-post {
-        width: 250px !important;
+        width: 300px !important;
     }
 
     .abou-box-gal {
@@ -109,6 +108,12 @@
     .p_details {
         display: flex !important;
         flex-direction: column !important;
+    }
+
+    .pinterest-style {
+        position: relative !important;
+        left: 3.5em !important;
+        display: flex !important;
     }
 
 }

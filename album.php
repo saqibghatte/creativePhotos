@@ -40,10 +40,10 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-lg-10">
-						<section class="gallery-section pinterest-style full padding-top-5">
+					<div class="col-lg-10 col-md-12 col-sm-12 ">
+						<section class="gallery-section pinterest-style full">
 
-							<div class="gallery-box iso-call col4">
+							<div class="gallery-box iso-call">
 								<div class="gallery-post">
 									<div class="inner-gallery-post">
 										<img src="./assets/img/gallery/abs1.jpg" alt="">
