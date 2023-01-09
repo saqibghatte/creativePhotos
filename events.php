@@ -16,7 +16,7 @@
 
 <section class="">
     <div class="text-center py-3">
-        <p class="fa-2x text-dark">Recent Events</p>
+        <p class="fa-2x text-primary fw-bold">Recent Events</p>
     </div>
     <div class="container">
         <div class="row">

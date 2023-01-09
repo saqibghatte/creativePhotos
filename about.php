@@ -22,7 +22,7 @@
 		<!-- about-me-section2  -->
 		<section class="about-me-section2">
 			<div class="text-center py-3">
-				<p class="fa-2x text-dark">About Us</p>
+				<p class="fa-2x text-primary fw-bold">About Us</p>
 			</div>
 			<div class="about-box-gal d-flex">
 				<!-- <div class="container text-center">

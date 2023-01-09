@@ -10,7 +10,7 @@
 
                 <div class="login-container ">
                     <div class="img pb-5 text-center">
-                        <img src="assets/img/navbar/logo.png" class="img-fluid" alt="Logo">
+                        <img src="assets/img/navbar/logo.svg" class="img-fluid" alt="Logo">
                         <p class="my-3 fa-lg fw-bold">Enter a password</p>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eius quo doloribus adipisci autem nesciunt quos?</p>
                     </div>
@@ -41,7 +41,7 @@
                     </div> -->
 
                     <div class="">
-                        <img src="assets/img/navbar/logo.png" alt="logo">
+                        <img src="assets/img/navbar/logo.svg" alt="logo">
                     </div>
                     <div class="my-5">
                         <h3>Enter a Password</h3>

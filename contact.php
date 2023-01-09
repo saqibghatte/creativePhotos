@@ -39,7 +39,7 @@ if (isset($_POST['submitform'])) {
 		<div class="row d-flex justify-content-center ">
 			<div class="col-lg-6">
 				<div class="text-center">
-					<p class="fw-bold fa-2x text-dark">Contact</p>
+					<p class="fa-2x text-primary fw-bold">Contact</p>
 					<p>I have a passion for nature photography. I want to share with you my search for capturing a photo-of-a-lifetime that, when enlarged and hung on the wall,</p>
 				</div>
 			</div>

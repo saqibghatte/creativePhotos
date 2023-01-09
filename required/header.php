@@ -14,7 +14,7 @@ ob_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- FAVICON -->
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico?">
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.svg?">
     <!-- MDB 5 START -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.0/mdb.min.css" rel="stylesheet" />
     <!-- Font Awesome -->
@@ -47,7 +47,7 @@ ob_start();
                 <div class="container">
                     <!-- Navbar brand -->
                     <a class="navbar-brand me-2" href="index.php">
-                        <img src="assets/img/navbar/logo.png" class="" height="50" alt="Logo" loading="lazy" />
+                        <img src="assets/img/navbar/logo.svg" class="" height="50" alt="Logo" loading="lazy" />
                     </a>
 
                     <!-- Toggle button -->

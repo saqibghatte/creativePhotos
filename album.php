@@ -20,7 +20,7 @@
 		<div class="container-fluid">
 			<div class="album-section">
 				<div class="text-center py-3">
-					<p class="fa-2x text-dark">Albums</p>
+					<p class="fa-2x text-primary fw-bold">Albums</p>
 				</div>
 				<div class="row">
 					<div class="col-lg-2">
