@@ -18,213 +18,218 @@
 
 		<!-- gallery-section  -->
 		<div class="container-fluid">
-			<div class="text-center py-3">
-				<p class="fa-2x text-dark">Albums</p>
-			</div>
-			<div class="row">
-				<div class="col-lg-2">
-					<div class="">
-						<ul class="list-unstyled">
-							<li><i class="fas fa-chevron-right me-2"></i><a class="fa-lg text-dark" href="">Maharashtrian Wedding</a></li>
-							<li><i class="fas fa-chevron-right me-2"></i><a class="fa-lg text-dark" href="">Muslim Wedding</a></li>
-							<li><i class="fas fa-chevron-right me-2"></i><a class="fa-lg text-dark" href="">Catholic Wedding</a></li>
-							<li><i class="fas fa-chevron-right me-2"></i><a class="fa-lg text-dark" href="">Gujrati Wedding</a></li>
-							<li><i class="fas fa-chevron-right me-2"></i><a class="fa-lg text-dark" href="">South Indian Wedding</a></li>
-						</ul>
-					</div>
+			<div class="album-section">
+				<div class="text-center py-3">
+					<p class="fa-2x text-dark">Albums</p>
 				</div>
-				<div class="col-lg-10">
-					<section class="gallery-section pinterest-style full padding-top-5">
-
-
-
-						<div class="gallery-box iso-call col4">
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="gallery-post">
-								<div class="inner-gallery-post">
-									<img src="./assets/img/gallery/abs1.jpg" alt="">
-									<div class="hover-box">
-										<h3 class="text-white">Heading</h3>
-									</div>
-								</div>
-							</div>
-
+				<div class="row">
+					<div class="col-lg-2">
+						<div class="">
+							<ul class="list-unstyled">
+								<p class="fa-lg fw-bold text-center pt-3">Sub Categories</p>
+								<li class="py-3 ps-3"><i class="fas fa-chevron-right me-2 "></i><a class="fa-lg text-dark" href="">Maharashtrian Wedding</a></li>
+								<hr class="m-0 p-0">
+								<li class="py-3 ps-3"><i class="fas fa-chevron-right me-2 "></i><a class="fa-lg text-dark" href="">Muslim Wedding</a></li>
+								<hr class="m-0 p-0">
+								<li class="py-3 ps-3"><i class="fas fa-chevron-right me-2 "></i><a class="fa-lg text-dark" href="">Catholic Wedding</a></li>
+								<hr class="m-0 p-0">
+								<li class="py-3 ps-3"><i class="fas fa-chevron-right me-2 "></i><a class="fa-lg text-dark" href="">Gujrati Wedding</a></li>
+								<hr class="m-0 p-0">
+								<li class="py-3 ps-3"><i class="fas fa-chevron-right me-2 "></i><a class="fa-lg text-dark" href="">South Indian Wedding</a></li>
+								<hr class="m-0 p-0">
+							</ul>
 						</div>
+					</div>
+					<div class="col-lg-10">
+						<section class="gallery-section pinterest-style full padding-top-5">
+
+							<div class="gallery-box iso-call col4">
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+								<div class="gallery-post">
+									<div class="inner-gallery-post">
+										<img src="./assets/img/gallery/abs1.jpg" alt="">
+										<div class="hover-box">
+											<h3 class="text-white">Heading</h3>
+										</div>
+									</div>
+								</div>
+
+							</div>
 
 
 
-					</section>
+						</section>
+					</div>
 				</div>
 			</div>
 		</div>

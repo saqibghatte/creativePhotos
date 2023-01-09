@@ -16,6 +16,10 @@ body {
   font-family: "SourceSansPro", "sans-serif" !important;
 }
 
+.text-primary{
+  color: #0f046f!important;
+}
+
 .paragraph,
 p,
 section.photos-section .photos-box .photo-post .hover-box .inner-hover span {
@@ -141,16 +145,6 @@ input[type="number"]::-webkit-outer-spin-button {
   z-index: 199;
   background: #0f046f;
 }
-
-
-
-/* CAROUSEL START */
-.sliderTemplates .card {
-  /* height: 400px; */
-}
-
-/* CAROUSEL END */
-
 
 /*------------------------------------------------- */
 /* =  General */
@@ -1498,16 +1492,18 @@ all and (min-device-pixel-ratio: 1.5) {
 /* LOGIN END */
 
 /* EVENTS START */
-.event-card-img{
+.event-card-img {
   height: 250px;
 }
-.event-card-img img{
-  object-fit: cover!important;
+
+.event-card-img img {
+  object-fit: cover !important;
 }
+
 /* EVENTS END */
 
 /* BREADCRUMBS START */
-.breadcrumb{
+.breadcrumb {
   background: url(https://equinoxx.in/images/Courses-Banner/photography.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1519,4 +1515,40 @@ all and (min-device-pixel-ratio: 1.5) {
   margin-top: 60px;
   /* background: red; */
 }
+
 /* BREADCRUMBS END */
+
+/* ALBUM START */
+.album-section ul {
+  height: 55vh;
+  /* overflow-y: auto; */
+  border: 2px solid #0F046F;
+  border-radius: 5%;
+}
+
+.album-section ul hr {
+  border: 1px solid #0F046F;
+}
+
+.album-section ul p {
+  color: #0F046F;
+}
+
+.album-section ul li:hover {
+  transform: translate(1rem);
+  transition: all 1s;
+}
+
+.album-section ul li i {
+  color: #0F046F;
+}
+
+/* ALBUM END */
+
+/* SHOW HIDE PASSWORD START */
+#password-field {
+  border: none;
+  outline: none;
+}
+
+/* SHOW HIDE PASSWORD END */

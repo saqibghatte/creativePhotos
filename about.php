@@ -117,8 +117,7 @@
 		</section>
 		<!-- End about-me section2 -->
 
-		<!-- gallery-section 
-			================================================== -->
+		<!-- gallery-section -->
 		<section class="gallery-section">
 			<div class="container">
 
