@@ -47,12 +47,12 @@ ob_start();
                 <div class="container">
                     <!-- Navbar brand -->
                     <a class="navbar-brand me-2" href="index.php">
-                        <img src="assets/img/navbar/logo.svg" class="" height="50" alt="Logo" loading="lazy" />
+                        <img src="assets/img/navbar/logo.svg" class="" height="50" width="180" alt="Logo" loading="lazy" />
                     </a>
 
                     <!-- Toggle button -->
                     <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarButtonsExample" aria-controls="navbarButtonsExample" aria-expanded="false" aria-label="Toggle navigation">
-                        <i class="fas fa-bars"></i>
+                        <i class="fas fa-bars text-white"></i>
                     </button>
 
                     <!-- Collapsible wrapper -->

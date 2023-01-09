@@ -92,7 +92,7 @@ $(document).ready(function ($) {
 		$(".hypnotic,.flipping").fadeOut("1000", function () {
 			$(this).remove();
 		});
-	}, 1600000);
+	}, 1600);
 	$(window).on("load", function () {
 		$(".hypnotic,.flipping").fadeOut("1000", function () {
 			$(this).remove();
