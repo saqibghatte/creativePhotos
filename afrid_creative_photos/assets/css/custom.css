@@ -1,0 +1,45 @@
+/* :root{
+    filter: invert(85%) hue-rotate(180deg);
+}
+
+.bg-primary,.bg-gradient-info,.bg-gradient-primary,.bg-gradient-success,.btn,img{
+     filter: invert(100%) hue-rotate(180deg);
+ }
+
+ *{
+     box-shadow: none !important;
+ }
+ */
+
+@media screen and (max-width: 767px) {
+
+    .dataTables_paginate {
+        padding-right: 0px;
+    }
+
+    .dataTables_paginate .pagination {
+        flex-wrap: wrap;
+    }
+}
+
+.dropzone {
+    border: none;
+    padding: 0px;
+}
+
+.dropzone .dz-preview {
+    margin: 0px
+}
+
+.column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.mainCard {
+    min-height: 84vh;
+}
+
+a {
+    cursor: pointer;
+}

@@ -2,12 +2,29 @@
 		<?php require "./required/header.php" ?>
 		<!-- HEADER END -->
 
+
+
+
+		<section class="breadcrumb">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="">
+							<span class="fa-2x fw-bold text-dark">Creative Photos</span><i class="fas fa-long-arrow-alt-right fa-lg mx-2 text-dark"></i><span class="fa-lg fw-bold text-dark">About</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
 		<!-- about-me-section2  -->
 		<section class="about-me-section2">
+			<div class="text-center py-3">
+				<p class="fa-2x text-dark">About Us</p>
+			</div>
 			<div class="about-box-gal d-flex">
-
-
-
 				<!-- <div class="container text-center">
 					<h1 class="text-dark fw-bold">AMON RAMIREZ</h1>
 					<div class="w-100 d-flex justify-content-center">

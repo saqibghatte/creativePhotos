@@ -25,6 +25,9 @@ ob_start();
     <link rel="stylesheet" href="css/media.css">
     <!-- <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/css/media.css"> -->
+    <!-- OWL CAROUSEL 2 START (Ver 2.3.4) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <!-- OWL CAROUSEL 2 END (Ver 2.3.4) -->
 </head>
 
 <body>
@@ -57,16 +60,19 @@ ob_start();
                         <!-- Left links -->
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0 w-100 d-flex justify-content-end navbarNav" id="navbar-bg">
                             <li class="nav-item px-1">
-                                <a class="nav-link text-dark fw-bold" href="index.php">Home</a>
+                                <a class="nav-link text-white fw-bold" href="index.php">Home</a>
                             </li>
                             <li class="nav-item px-1">
-                                <a class="nav-link text-dark fw-bold" href="about.php">About</a>
+                                <a class="nav-link text-white fw-bold" href="about.php">About</a>
                             </li>
                             <li class="nav-item px-1">
-                                <a class="nav-link text-dark fw-bold" href="eventts.php">Recent Events</a>
+                                <a class="nav-link text-white fw-bold" href="events.php">Recent Events</a>
                             </li>
                             <li class="nav-item px-1">
-                                <a class="nav-link text-dark fw-bold" href="contact.php">Contact</a>
+                                <a class="nav-link text-white fw-bold" href="album.php">Albums</a>
+                            </li>
+                            <li class="nav-item px-1">
+                                <a class="nav-link text-white fw-bold" href="contact.php">Contact</a>
                             </li>
                         </ul>
 
@@ -74,15 +80,18 @@ ob_start();
                             <ul class="d-flex my-auto">
                                 <li class="list-unstyled mx-2">
                                     <!-- Whatsapp -->
-                                    <a class="btn btn-outline-dark btn-floating m-1" target="_blank" href="https://wa.me/+123456789" role="button"><i class="fab fa-whatsapp icon_zoom"></i></a>
+                                    <a class="btn btn-outline-white
+                                     btn-floating m-1" target="_blank" href="https://wa.me/+123456789" role="button"><i class="fab fa-whatsapp icon_zoom"></i></a>
                                 </li>
                                 <li class="list-unstyled mx-2">
                                     <!-- Facebook -->
-                                    <a class="btn btn-outline-dark btn-floating m-1" target="_blank" href="https://www.facebook.com/linkhere" role="button"><i class="fab fa-facebook-f icon_zoom"></i></a>
+                                    <a class="btn btn-outline-white
+                                     btn-floating m-1" target="_blank" href="https://www.facebook.com/linkhere" role="button"><i class="fab fa-facebook-f icon_zoom"></i></a>
                                 </li>
                                 <li class="list-unstyled mx-2">
                                     <!-- Instagram -->
-                                    <a class="btn btn-outline-dark btn-floating m-1" target="_blank" href="https://www.instagram.com/linkhere" role="button"><i class="fab fa-instagram icon_zoom"></i></a>
+                                    <a class="btn btn-outline-white
+                                     btn-floating m-1" target="_blank" href="https://www.instagram.com/linkhere" role="button"><i class="fab fa-instagram icon_zoom"></i></a>
                                 </li>
                             </ul>
                         </div>

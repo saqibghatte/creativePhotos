@@ -627,3 +627,31 @@ $(document).ready(function () {
 	}).click();
 });
 // NAVBAR ACTIVE CLASS END
+
+
+// OWL CAROUSEL TEMPLATES START
+$(".sliderTemplates").owlCarousel({
+	loop: true,
+	autoplay: true,
+	autoplayTimeout: 2000, //2000ms = 2s;
+	autoplayHoverPause: true,
+	dots: false,
+	nav: false,
+	responsiveClass: true,
+	responsive: {
+		0: {
+			items: 1,
+			loop: true
+		},
+		600: {
+			items: 2,
+			loop: true
+		},
+		1000: {
+			items: 4,
+			nav: false,
+			loop: true
+		},
+	}
+});
+// OWL CAROUSEL TEMPLATES END

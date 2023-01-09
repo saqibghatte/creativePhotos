@@ -11,7 +11,9 @@ html {
 }
 
 body {
-  background-color: #0f046f;
+  background-color: #f4d6cc;
+  /* background-color: #0f046f; */
+  font-family: "SourceSansPro", "sans-serif" !important;
 }
 
 .paragraph,
@@ -37,7 +39,7 @@ h1 {
 
 .heading2,
 h2,
-.comment-area-box > ul li .comment-box .comment-content h4 {
+.comment-area-box>ul li .comment-box .comment-content h4 {
   color: #222222;
   font-size: 16px;
   font-family: "Montserrat", sans-serif;
@@ -125,9 +127,6 @@ input[type="number"]::-webkit-outer-spin-button {
 /*------------------------------------------------- */
 /* =  Header
  *------------------------------------------------- */
-.padding-top-5 {
-  padding-top: 5em !important;
-}
 
 .nav_active {
   line-height: 1;
@@ -140,8 +139,18 @@ input[type="number"]::-webkit-outer-spin-button {
   position: fixed !important;
   top: 0px;
   z-index: 199;
-  background: #f4d6cc;
+  background: #0f046f;
 }
+
+
+
+/* CAROUSEL START */
+.sliderTemplates .card {
+  /* height: 400px; */
+}
+
+/* CAROUSEL END */
+
 
 /*------------------------------------------------- */
 /* =  General */
@@ -174,21 +183,15 @@ input[type="number"]::-webkit-outer-spin-button {
   height: 88px;
   display: grid;
   background: linear-gradient(#000 0 0) top/100% 3.5px,
-    radial-gradient(
-        farthest-side at top,
-        #0000 calc(100% - 3.5px),
-        #000 calc(100% - 1.8px),
-        #0000
-      )
-      top,
+    radial-gradient(farthest-side at top,
+      #0000 calc(100% - 3.5px),
+      #000 calc(100% - 1.8px),
+      #0000) top,
     linear-gradient(#000 0 0) bottom/100% 3.5px,
-    radial-gradient(
-        farthest-side at bottom,
-        #0000 calc(100% - 3.5px),
-        #000 calc(100% - 1.8px),
-        #0000
-      )
-      bottom;
+    radial-gradient(farthest-side at bottom,
+      #0000 calc(100% - 3.5px),
+      #000 calc(100% - 1.8px),
+      #0000) bottom;
   background-size: 100% 1.8px, 100% 50%;
   background-repeat: no-repeat;
   animation: hypnotic-k56gsf 4s infinite linear;
@@ -253,22 +256,15 @@ section.photos-section .photos-box .photo-post .hover-box .inner-hover {
   height: 100%;
   padding: 20px;
   padding-top: 60px;
-  background: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0.8) 0%,
-    rgba(0, 0, 0, 0) 100%
-  );
+  background: linear-gradient(to top,
+      rgba(0, 0, 0, 0.8) 0%,
+      rgba(0, 0, 0, 0) 100%);
   display: flex;
   justify-content: space-between;
   overflow: hidden;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .title-post {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .title-post {
   margin-left: -100%;
   transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -290,12 +286,7 @@ section.photos-section .photos-box .photo-post .hover-box .inner-hover span {
   font-weight: 300;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .share-like {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .share-like {
   margin-top: 15px;
   margin-right: -100%;
   transition: all 0.3s ease-in-out;
@@ -305,36 +296,18 @@ section.photos-section
   position: relative;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .share-like
-  a {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .share-like a {
   color: #fff;
   font-size: 16px;
   margin-left: 10px;
   font-weight: 300;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .share-like
-  a:hover {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .share-like a:hover {
   color: #ff9900;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .share-like
-  ul.share-list {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .share-like ul.share-list {
   position: absolute;
   text-align: center;
   opacity: 0;
@@ -347,24 +320,11 @@ section.photos-section
   -o-transition: all 0.2s ease-in-out;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .share-like
-  ul.share-list
-  li {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .share-like ul.share-list li {
   display: block;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post
-  .hover-box
-  .inner-hover
-  .share-like:hover
-  ul.share-list {
+section.photos-section .photos-box .photo-post .hover-box .inner-hover .share-like:hover ul.share-list {
   top: -70px;
   visibility: visible;
   opacity: 1;
@@ -374,18 +334,8 @@ section.photos-section .photos-box .photo-post:hover .hover-box {
   opacity: 1;
 }
 
-section.photos-section
-  .photos-box
-  .photo-post:hover
-  .hover-box
-  .inner-hover
-  .title-post,
-section.photos-section
-  .photos-box
-  .photo-post:hover
-  .hover-box
-  .inner-hover
-  .share-like {
+section.photos-section .photos-box .photo-post:hover .hover-box .inner-hover .title-post,
+section.photos-section .photos-box .photo-post:hover .hover-box .inner-hover .share-like {
   margin-left: 0;
   margin-right: 0;
 }
@@ -438,12 +388,7 @@ section.photos-section.grid-boxed .photos-box .photo-post .hover-box h2 a {
   color: #222222;
 }
 
-section.photos-section.grid-boxed
-  .photos-box
-  .photo-post
-  .hover-box
-  h2
-  a:hover {
+section.photos-section.grid-boxed .photos-box .photo-post .hover-box h2 a:hover {
   color: #ff9900;
 }
 
@@ -461,11 +406,7 @@ section.photos-section.grid-boxed .photos-box .photo-post .hover-box a.likes {
   font-family: "Montserrat", sans-serif;
 }
 
-section.photos-section.grid-boxed
-  .photos-box
-  .photo-post
-  .hover-box
-  a.likes:hover {
+section.photos-section.grid-boxed .photos-box .photo-post .hover-box a.likes:hover {
   color: #ff9900;
 }
 
@@ -473,18 +414,8 @@ section.photos-section.grid-boxed .photos-box .photo-post:hover .hover-box {
   opacity: 1;
 }
 
-section.photos-section.grid-boxed
-  .photos-box
-  .photo-post:hover
-  .hover-box
-  .inner-hover
-  .title-post,
-section.photos-section.grid-boxed
-  .photos-box
-  .photo-post:hover
-  .hover-box
-  .inner-hover
-  .share-like {
+section.photos-section.grid-boxed .photos-box .photo-post:hover .hover-box .inner-hover .title-post,
+section.photos-section.grid-boxed .photos-box .photo-post:hover .hover-box .inner-hover .share-like {
   margin-left: 0;
   margin-right: 0;
 }
@@ -516,7 +447,7 @@ section.photos-section.masonry ul.filter li a:hover {
 }
 
 section.photos-section.masonry ul.filter li:before {
-  content: "|";
+  /* content: "|"; */
   color: #696969;
   font-size: 13px;
   font-family: "Montserrat", sans-serif;
@@ -594,11 +525,7 @@ section.photos-section.masonry .photos-box .photo-post .hover-box a.likes {
   font-family: "Montserrat", sans-serif;
 }
 
-section.photos-section.masonry
-  .photos-box
-  .photo-post
-  .hover-box
-  a.likes:hover {
+section.photos-section.masonry .photos-box .photo-post .hover-box a.likes:hover {
   color: #ff9900;
 }
 
@@ -606,18 +533,8 @@ section.photos-section.masonry .photos-box .photo-post:hover .hover-box {
   opacity: 1;
 }
 
-section.photos-section.masonry
-  .photos-box
-  .photo-post:hover
-  .hover-box
-  .inner-hover
-  .title-post,
-section.photos-section.masonry
-  .photos-box
-  .photo-post:hover
-  .hover-box
-  .inner-hover
-  .share-like {
+section.photos-section.masonry .photos-box .photo-post:hover .hover-box .inner-hover .title-post,
+section.photos-section.masonry .photos-box .photo-post:hover .hover-box .inner-hover .share-like {
   margin-left: 0;
   margin-right: 0;
 }
@@ -809,12 +726,7 @@ section.gallery-section.full-grid .gallery-box .gallery-post .hover-box h2 a {
   color: #222222;
 }
 
-section.gallery-section.full-grid
-  .gallery-box
-  .gallery-post
-  .hover-box
-  h2
-  a:hover {
+section.gallery-section.full-grid .gallery-box .gallery-post .hover-box h2 a:hover {
   color: #000;
 }
 
@@ -829,10 +741,7 @@ section.gallery-section.full-grid .center-button {
   padding-top: 40px;
 }
 
-section.gallery-section.pinterest-style
-  .gallery-box
-  .gallery-post
-  .inner-gallery-post {
+section.gallery-section.pinterest-style .gallery-box .gallery-post .inner-gallery-post {
   position: relative;
   overflow: hidden;
   -webkit-border-radius: 20px;
@@ -843,6 +752,7 @@ section.gallery-section.pinterest-style
   -moz-transition: all 0.2 ease-in-out;
   -webkit-transition: all 0.2 ease-in-out;
   -o-transition: all 0.2 ease-in-out;
+
 }
 
 section.gallery-section.pinterest-style .gallery-box .gallery-post img {
@@ -850,54 +760,34 @@ section.gallery-section.pinterest-style .gallery-box .gallery-post img {
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
   border-radius: 20px;
+
 }
 
 section.gallery-section.pinterest-style .gallery-box .gallery-post .hover-box {
   background: rgba(255, 255, 255, 0.205);
 }
 
-section.gallery-section.pinterest-style
-  .gallery-box
-  .gallery-post
-  .hover-box
-  h2 {
+section.gallery-section.pinterest-style .gallery-box .gallery-post .hover-box h2 {
   text-transform: initial;
   font-size: 15px;
 }
 
-section.gallery-section.pinterest-style
-  .gallery-box
-  .gallery-post
-  .hover-box
-  h2
-  a {
+section.gallery-section.pinterest-style .gallery-box .gallery-post .hover-box h2 a {
   color: #222222;
 }
 
-section.gallery-section.pinterest-style
-  .gallery-box
-  .gallery-post
-  .hover-box
-  h2
-  a:hover {
+section.gallery-section.pinterest-style .gallery-box .gallery-post .hover-box h2 a:hover {
   color: #000;
 }
 
-section.gallery-section.pinterest-style
-  .gallery-box
-  .gallery-post:hover
-  .inner-gallery-post {
+section.gallery-section.pinterest-style .gallery-box .gallery-post:hover .inner-gallery-post {
   box-shadow: 0 16px 24px #eaeaea;
   -webkit-box-shadow: 0 16px 24px #eaeaea;
   -moz-box-shadow: 0 16px 24px #eaeaea;
   -o-box-shadow: 0 16px 24px #eaeaea;
 }
 
-section.gallery-section.pinterest-style
-  .gallery-box
-  .gallery-post:hover
-  .inner-gallery-post
-  .hover-box {
+section.gallery-section.pinterest-style .gallery-box .gallery-post:hover .inner-gallery-post .hover-box {
   top: 0;
   left: 0;
   right: 0;
@@ -990,20 +880,19 @@ section.about-me-section2 .about-box-gal {
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 1.5),
-  all and (-o-min-device-pixel-ratio: 3 / 2),
-  all and (min--moz-device-pixel-ratio: 1.5),
-  all and (min-device-pixel-ratio: 1.5) {
+all and (-o-min-device-pixel-ratio: 3 / 2),
+all and (min--moz-device-pixel-ratio: 1.5),
+all and (min-device-pixel-ratio: 1.5) {
   section.about-me-section2 .about-box-gal {
-    background: #111 url("../assets/img/about/about.webp") center bottom
-      no-repeat;
+    background: #111 url("../assets/img/about/about.webp") center bottom no-repeat;
     background-size: cover;
   }
 }
 
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+@media (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
   section.about-me-section2 .about-box-gal {
-    background: #111 url("../assets/img/about/about.webp") center bottom
-      no-repeat;
+    background: #111 url("../assets/img/about/about.webp") center bottom no-repeat;
     background-size: cover;
   }
 }
@@ -1070,20 +959,19 @@ h2.title-about-page {
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 1.5),
-  all and (-o-min-device-pixel-ratio: 3 / 2),
-  all and (min--moz-device-pixel-ratio: 1.5),
-  all and (min-device-pixel-ratio: 1.5) {
+all and (-o-min-device-pixel-ratio: 3 / 2),
+all and (min--moz-device-pixel-ratio: 1.5),
+all and (min-device-pixel-ratio: 1.5) {
   .accord-section .accord-box {
-    background: #111 url("../upload/others/ser-ban2@2x.jpg") center bottom
-      no-repeat;
+    background: #111 url("../upload/others/ser-ban2@2x.jpg") center bottom no-repeat;
     background-size: cover;
   }
 }
 
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+@media (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
   .accord-section .accord-box {
-    background: #111 url("../upload/others/ser-ban2@2x.jpg") center bottom
-      no-repeat;
+    background: #111 url("../upload/others/ser-ban2@2x.jpg") center bottom no-repeat;
     background-size: cover;
   }
 }
@@ -1179,12 +1067,7 @@ h2.title-about-page {
     padding: 0 30px;
   }
 
-  div.gal-style-section
-    .gal-style-box
-    .photo-post
-    .content-post
-    .inner-content
-    h2 {
+  div.gal-style-section .gal-style-box .photo-post .content-post .inner-content h2 {
     line-height: 36px;
   }
 
@@ -1294,7 +1177,7 @@ h2.title-about-page {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }
 
-  .navbar-nav > li > a {
+  .navbar-nav>li>a {
     padding: 5px 30px !important;
     border: none !important;
   }
@@ -1304,8 +1187,8 @@ h2.title-about-page {
     display: none;
   }
 
-  .navbar-nav > li > a:hover,
-  .navbar-nav > li > a.active {
+  .navbar-nav>li>a:hover,
+  .navbar-nav>li>a.active {
     color: #ff9900 !important;
   }
 
@@ -1349,18 +1232,18 @@ h2.title-about-page {
     display: none;
   }
 
-  header.transparent-style .navbar-nav > li > a.active,
-  header.transparent-style .navbar-nav > li > a:hover,
-  header.transparent-overlay .navbar-nav > li > a.active,
-  header.transparent-overlay .navbar-nav > li > a:hover,
-  header.transparent-overlay2 .navbar-nav > li > a.active,
-  header.transparent-overlay2 .navbar-nav > li > a:hover {
+  header.transparent-style .navbar-nav>li>a.active,
+  header.transparent-style .navbar-nav>li>a:hover,
+  header.transparent-overlay .navbar-nav>li>a.active,
+  header.transparent-overlay .navbar-nav>li>a:hover,
+  header.transparent-overlay2 .navbar-nav>li>a.active,
+  header.transparent-overlay2 .navbar-nav>li>a:hover {
     color: #222222 !important;
   }
 
-  header.transparent-style .navbar-nav > li > a,
-  header.transparent-overlay .navbar-nav > li > a,
-  header.transparent-overlay2 .navbar-nav > li > a {
+  header.transparent-style .navbar-nav>li>a,
+  header.transparent-overlay .navbar-nav>li>a,
+  header.transparent-overlay2 .navbar-nav>li>a {
     padding: 5px 30px !important;
   }
 
@@ -1587,3 +1470,53 @@ h2.title-about-page {
     padding-left: 0;
   }
 }
+
+
+
+/* WHATSAPP ICON START */
+.whatsapp-icon {
+  position: fixed;
+  bottom: 50px;
+  right: 25px;
+}
+
+.whatsapp-icon i:hover {
+  cursor: pointer;
+  text-shadow: 3px 3px rgba(255, 255, 255, 0.637) !important;
+}
+
+/* WHATSAPP ICON END */
+
+/* LOGIN START */
+.login-p-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+/* LOGIN END */
+
+/* EVENTS START */
+.event-card-img{
+  height: 250px;
+}
+.event-card-img img{
+  object-fit: cover!important;
+}
+/* EVENTS END */
+
+/* BREADCRUMBS START */
+.breadcrumb{
+  background: url(https://equinoxx.in/images/Courses-Banner/photography.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+  /* background: red; */
+}
+/* BREADCRUMBS END */

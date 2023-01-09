@@ -5,6 +5,8 @@
         display: flex !important;
         flex-direction: column !important;
     }
+
+    
 }
 
 @media (min-width: 1025px) and (max-width: 1280px) {
@@ -12,6 +14,8 @@
         display: flex !important;
         flex-direction: column !important;
     }
+
+    
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -35,6 +39,8 @@
         display: flex !important;
         flex-direction: column !important;
     }
+
+   
 }
 
 /* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {} */
@@ -65,6 +71,8 @@
         display: flex !important;
         flex-direction: column !important;
     }
+
+   
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -102,4 +110,5 @@
         display: flex !important;
         flex-direction: column !important;
     }
+
 }

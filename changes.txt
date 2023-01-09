@@ -1,13 +1,13 @@
-1. New Categories & Sub-Categories Adding Feature where all categories & Sub-categories will be listed.
-2. Add floating WhatsApp button at right bottom which will open whatsapp
-3. Add Mobile Number column in contact us page.
+1. New Categories & Sub-Categories Adding Feature where all categories & Sub-categories will be listed. ---
+2. Add floating WhatsApp button at right bottom which will open whatsapp. ---
+3. Add Mobile Number column in contact us page. ---
 4. Add small logo as a favicon and big logo as main logo on all pages.
 5. New Page for Recent Events. This page will require a password to open. (Same password for all users). Here all recent
-events will be visibile.
+events will be visibile. --
 6. YouTube slider on home page. 4 videos link to be added from admin panel.
 
 
-Album Type (Categories & Sub-Categories)
+Album Type (Categories & Sub-Categories) ---
 1. Engagement Shoot
 2. Baby Shower
 3. Wedding Shoot
@@ -26,7 +26,7 @@ Album Type (Categories & Sub-Categories)
 11. Maternity Shoot
 
 
-Tagline - We creates your happy memories.
-Social Links - Instagram, WhatsApp, YouTube
-Color to be used - Blue (#0F046F), Unbleached Silk (#F4D6CC)
-Fonts - Source Sans Pro (Google Fonts)
+Tagline - We creates your happy memories. 
+Social Links - Instagram, WhatsApp, YouTube 
+Color to be used - Blue (#0F046F), Unbleached Silk (#F4D6CC) ---
+Fonts - Source Sans Pro (Google Fonts) ---

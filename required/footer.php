@@ -78,12 +78,22 @@
 <!-- End Container -->
 
 
+<div class="whatsapp-icon">
+    <span><a target="_blank" href="https://wa.me/+123456789"><i class="fab fa-whatsapp fa-3x text-success"></i></a></span>
+</div>
+
+
 <!-- Js -->
 <script src="js/shutter-plugins.min.js"></script>
 <!-- Script.js -->
 <script src="js/script.js"></script>
 <!-- MDB 5 START -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.0.0/mdb.min.js"></script>
+
+<!-- OWL CAROUSEL 2 START (Ver 2.3.4) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!-- OWL CAROUSEL 2 END (Ver 2.3.4) -->
+
 </body>
 
 </html>
