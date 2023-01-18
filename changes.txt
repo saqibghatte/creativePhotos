@@ -4,7 +4,7 @@
 4. Add small logo as a favicon and big logo as main logo on all pages. ---
 5. New Page for Recent Events. This page will require a password to open. (Same password for all users). Here all recent
 events will be visibile. ---
-6. YouTube slider on home page. 4 videos link to be added from admin panel. 
+6. YouTube slider on home page. 4 videos link to be added from admin panel. ---
 
 
 Album Type (Categories & Sub-Categories) ---
