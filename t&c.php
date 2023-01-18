@@ -3,32 +3,27 @@
 <!-- HEADER END -->
 
 
-<section class="pt-5">
-    <div class="container-fluid">
+<section class="breadcrumb">
+    <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="bg-secondary border text-center p-5">
-                    <h3>Terms & Conditions</h3>
+                <div class="">
+                    <span class="fa-2x fw-bold text-dark">Creative Photos</span><i class="fas fa-long-arrow-alt-right fa-lg mx-2 text-dark"></i><span class="fa-lg fw-bold text-dark">Terms & Conditions</span>
                 </div>
             </div>
         </div>
     </div>
+</section>
+
+
+<section class="">
+
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="position-relative card p-3 bg-light" style="bottom: 2em;">
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae inventore numquam exercitationem fuga tempora optio nostrum quas. Quis, minus, porro similique omnis fuga sit, earum quos eligendi veritatis quae inventore architecto deserunt? Enim fuga cumque iure pariatur eius numquam? Reprehenderit, animi quisquam. Assumenda at ut explicabo cupiditate! Expedita provident doloremque, odit unde, animi qui quaerat labore officiis excepturi fugit soluta voluptate enim, quis dolorem corporis porro repellat. Eligendi ex in quasi quaerat vel debitis explicabo iure porro perferendis. Eaque eveniet fugit ex eligendi inventore veniam. Eveniet dolore incidunt ad hic culpa, eaque tempore commodi amet voluptates animi cupiditate eligendi alias?
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae inventore numquam exercitationem fuga tempora optio nostrum quas. Quis, minus, porro similique omnis fuga sit, earum quos eligendi veritatis quae inventore architecto deserunt? Enim fuga cumque iure pariatur eius numquam? Reprehenderit, animi quisquam. Assumenda at ut explicabo cupiditate! Expedita provident doloremque, odit unde, animi qui quaerat labore officiis excepturi fugit soluta voluptate enim, quis dolorem corporis porro repellat. Eligendi ex in quasi quaerat vel debitis explicabo iure porro perferendis. Eaque eveniet fugit ex eligendi inventore veniam. Eveniet dolore incidunt ad hic culpa, eaque tempore commodi amet voluptates animi cupiditate eligendi alias?
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae inventore numquam exercitationem fuga tempora optio nostrum quas. Quis, minus, porro similique omnis fuga sit, earum quos eligendi veritatis quae inventore architecto deserunt? Enim fuga cumque iure pariatur eius numquam? Reprehenderit, animi quisquam. Assumenda at ut explicabo cupiditate! Expedita provident doloremque, odit unde, animi qui quaerat labore officiis excepturi fugit soluta voluptate enim, quis dolorem corporis porro repellat. Eligendi ex in quasi quaerat vel debitis explicabo iure porro perferendis. Eaque eveniet fugit ex eligendi inventore veniam. Eveniet dolore incidunt ad hic culpa, eaque tempore commodi amet voluptates animi cupiditate eligendi alias?
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae inventore numquam exercitationem fuga tempora optio nostrum quas. Quis, minus, porro similique omnis fuga sit, earum quos eligendi veritatis quae inventore architecto deserunt? Enim fuga cumque iure pariatur eius numquam? Reprehenderit, animi quisquam. Assumenda at ut explicabo cupiditate! Expedita provident doloremque, odit unde, animi qui quaerat labore officiis excepturi fugit soluta voluptate enim, quis dolorem corporis porro repellat. Eligendi ex in quasi quaerat vel debitis explicabo iure porro perferendis. Eaque eveniet fugit ex eligendi inventore veniam. Eveniet dolore incidunt ad hic culpa, eaque tempore commodi amet voluptates animi cupiditate eligendi alias?
-                    </p>
+                <div class="">
+                    <p class="fw-bold fa-lg text-dark">Heading</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nostrum voluptates reiciendis explicabo reprehenderit sapiente, suscipit amet nesciunt dolores, quod cumque ipsa magni ullam asperiores similique libero ut, nihil repellendus.</p>
                 </div>
             </div>
         </div>

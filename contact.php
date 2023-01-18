@@ -51,11 +51,11 @@ if (isset($_POST['submitform'])) {
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="border rounded border-dark p-3 bg-light contact_div">
+				<div class="rounded p-3 contact_div" style="background: #bdb5b5;">
 
 					<form method="POST" action="" enctype="multipart/form-data">
 						<div class="form-group">
-							<label for="fullName" class="text-dark">Full Name</label>
+							<label for="fullName" class="text-primary fw-bold">Full Name</label>
 							<input type="text" name="fName" class="form-control" id="fullName" value="John Doe">
 						</div>
 
@@ -64,14 +64,14 @@ if (isset($_POST['submitform'])) {
 
 								<div class="col-lg-6 col-md-12 col-sm-12">
 									<div class="form-group ">
-										<label for="email" class="text-dark">Email address</label>
+										<label for="email" class="text-primary fw-bold">Email address</label>
 										<input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" value="name@domain.com">
 									</div>
 								</div>
 
 								<div class="col-lg-6 col-md-12 col-sm-12">
 									<div class="form-group ">
-										<label for="number" class="text-dark">Phone Number</label>
+										<label for="number" class="text-primary fw-bold">Phone Number</label>
 										<input type="number" name="phone" class="form-control" id="number" value="1234567890">
 									</div>
 								</div>
@@ -79,12 +79,12 @@ if (isset($_POST['submitform'])) {
 						</div>
 
 						<div class="form-group ">
-							<label for="message" class="text-dark">Message</label>
+							<label for="message" class="text-primary fw-bold">Message</label>
 							<textarea class="w-100 form-control" name="message" id="message" cols="5" rows="3" style="resize: none;"></textarea>
 						</div>
 
 						<div class="text-center mt-3">
-							<button type="submit" name="submitform" class="btn bg-white text-dark fw-bold w-100">Submit</button>
+							<button type="submit" name="submitform" class="btn fw-bold fw-bold w-100" style="background: #0F046F; color:#F4D6CC">Submit</button>
 						</div>
 					</form>
 				</div>
