@@ -14,5 +14,5 @@ if (in_array($_SERVER['SERVER_ADDR'], $server)) {
     define("USERNAME", 'root');
     define("PASSWORD", '');
     define("DATABASE", 'creative_photos');
-    define("BASE_URL", "http://localhost/creative_photos/admin/");
+    define("BASE_URL", "http://localhost/creativePhotos/admin/");
 }

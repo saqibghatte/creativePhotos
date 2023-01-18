@@ -63,7 +63,7 @@ if (!$logged_in_admin) {
                                     <div class=sidenav-toggler-inner><i class=sidenav-toggler-line></i> <i class=sidenav-toggler-line></i> <i class=sidenav-toggler-line></i></div>
                                 </div>
                             </div><a class="navbar-brand pl-3" href='index'>
-                                <h2 class="m-0 text-white">Afrid Creative Photos</h2>
+                                <h2 class="m-0 text-white">Kreative Fotos</h2>
                             </a>
                         </li>
                     </ul>

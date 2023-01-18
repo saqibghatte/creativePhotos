@@ -66,7 +66,7 @@
 
         <!-- Copyright -->
         <div class="container text-center">
-            <p class="copyright-line text-white ">© Copyright <a href="index.php" class="fw-bold text-muted">CreativePhoto</a> . All Rights Reserved</p>
+            <p class="copyright-line text-white ">© Copyright <a href="index.php" class="fw-bold text-muted">Kreative Fotos</a> . All Rights Reserved</p>
             <p class="copyright-line text-white m-0 ">Design & Developed by <a href="" class="fw-bold text-muted">Us Digital</a> </p>
         </div>
         <!-- Copyright -->

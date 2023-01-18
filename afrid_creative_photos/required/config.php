@@ -97,19 +97,12 @@ function runQuery($sql, $printQuery = false, $addLog = true)
     return $result;
 }
 
-// function redirect($redirectURL)
-// {
-//     if ($redirectURL == 0) $redirectURL = $_SERVER["HTTP_REFERER"];
-//     header("Location:$redirectURL");
-//     exit();
-// }
-
 function redirect($redirectURL)
 {
+    if ($redirectURL == 0) $redirectURL = $_SERVER["HTTP_REFERER"];
     header("Location:$redirectURL");
     exit();
 }
-
 
 function basePageName()
 {

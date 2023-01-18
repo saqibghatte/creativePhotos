@@ -10,7 +10,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="">
-							<span class="fa-2x fw-bold text-dark">Creative Photos</span><i class="fas fa-long-arrow-alt-right fa-lg mx-2 text-dark"></i><span class="fa-lg fw-bold text-dark">About</span>
+							<span class="fa-2x fw-bold text-dark">Kreative Fotos</span><i class="fas fa-long-arrow-alt-right fa-lg mx-2 text-dark"></i><span class="fa-lg fw-bold text-dark">About</span>
 						</div>
 					</div>
 				</div>
@@ -44,7 +44,7 @@
 				<div class="container d-flex">
 					<ul class="">
 						<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href=""><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Birthday:</span> <span>1 May 1995</span></a></li>
-						<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href="www.creativePhotos.com"><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Website:</span> <span>www.example.com</span></a></li>
+						<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href="www.kreativefotos.com"><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Website:</span> <span>www.example.com</span></a></li>
 						<li class="my-2 list-unstyled"><a class="text-dark fa-lg" target="_blank" href="https://wa.me/+123456789"><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Phone:</span> <span>+123 456 7890</span></a></li>
 						<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href=""><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">City:</span> <span>New York, USA</span></a></li>
 					</ul>
@@ -79,7 +79,7 @@
 							<div class="container d-flex p_details">
 								<ul class="">
 									<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href=""><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Birthday:</span> <span>1 May 1995</span></a></li>
-									<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href="www.creativePhotos.com"><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Website:</span> <span>www.example.com</span></a></li>
+									<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href="www.kreativefotos.com"><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Website:</span> <span>www.example.com</span></a></li>
 									<li class="my-2 list-unstyled"><a class="text-dark fa-lg" target="_blank" href="https://wa.me/+123456789"><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">Phone:</span> <span>+123 456 7890</span></a></li>
 									<li class="my-2 list-unstyled"><a class="text-dark fa-lg" href=""><i class="fas fa-angle-right text-dark"></i> <span class="fw-bold">City:</span> <span>New York, USA</span></a></li>
 								</ul>
